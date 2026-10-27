@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Shanghai",
+  "recent_calendar_days": 10,
+  "note": "只登记真实交付；文件可用不代表用户已完成。原始任务卡日期据正文，配置审阅不记为授课。",
+  "records": [
+    {
+      "task_id": "lv0-day01-hypothesis",
+      "date": "2026-10-27",
+      "last_delivery_date": "2026-10-27",
+      "level": "Lv0",
+      "title": "Day 1：把基本面判断变成量化研究假设",
+      "delivery_status": "task_card_only",
+      "learning_status": "awaiting_feedback",
+      "expected_artifacts": ["markdown", "html", "pdf"],
+      "missing_artifacts": ["html", "pdf"],
+      "artifacts": [
+        {
+          "kind": "markdown",
+          "label": "原始 Markdown 任务卡",
+          "path": "每日任务/2026-10-27.md",
+          "created_on": "2026-10-27"
+        }
+      ],
+      "learning_evidence": [],
+      "next_action": "先补齐当前关卡完整 HTML/PDF 与当前版任务卡，经过交付检查后继续同一必做研究设计。",
+      "revision_notes": [
+        "2026-10-27-v3：核对当前目录，仅发现原始任务卡；未新增讲义、模型结果或用户完成记录。"
+      ]
+    }
+  ]
+}

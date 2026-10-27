@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-27T15:37:29+08:00",
+  "rules_version": "2026-10-27-v4",
+  "desired_execution": "cloud",
+  "actual_execution": "local",
+  "cloud_migration_status": "pending_user_cloud_setup",
+  "local_automation_id": "a",
+  "local_automation_status": "ACTIVE",
+  "schedule_local": "每天20:30，Asia/Shanghai",
+  "local_target_thread_id": "01a17c2a-5846-7bb3-8c3b-f4788735ef70",
+  "cloud_automation_id": null,
+  "cloud_chat_url": null,
+  "prompt_matches_local": true,
+  "prompt_sha256": "cac55de0c4ea00df51395d5ed119b2e8e007f489aaa4a27ef99bd99947d20505",
+  "prompt_contains_windows_drive_path": false,
+  "migration_package_contains_current_prompt": true,
+  "cloud_scheduled_run_verified": false,
+  "cross_device_artifact_access_verified": false,
+  "notification_verified": false
+}

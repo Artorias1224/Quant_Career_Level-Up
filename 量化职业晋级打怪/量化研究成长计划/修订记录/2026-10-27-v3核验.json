@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-10-27T15:21:21+08:00",
+  "automation_id": "a",
+  "kind": "heartbeat",
+  "status": "ACTIVE",
+  "schedule_local": "每天20:30，Asia/Shanghai",
+  "target_thread_id": "01a17c2a-5846-7bb3-8c3b-f4788735ef70",
+  "prompt_matches_local": true,
+  "prompt_sha256": "da4187eebbba660fbb8840c9b502d56c170551e3a2e70b0cbdf460e5e06d37da",
+  "day1_sha256": "7881865bb66c32660dc818326f52ff92f49d43509b18840cfb2ecb680760a9fb",
+  "existing_learning_units": 1,
+  "existing_learning_artifacts": 1,
+  "missing_artifacts": [
+    "html",
+    "pdf"
+  ],
+  "index_links_checked": 8,
+  "html_visual_check": {
+    "javascript_enabled": false,
+    "desktop_width": 1366,
+    "mobile_width": 390,
+    "horizontal_overflow": false,
+    "screenshots": [
+      "index-desktop.png",
+      "index-mobile.png"
+    ]
+  },
+  "scheduled_run_verified": false,
+  "notification_delivery_verified": false,
+  "user_learning_passed": false
+}
